@@ -117,6 +117,10 @@ end
 https://unpkg.com/mermaid@<version>/dist/
 ```
 
+```
+https://cdnjs.com/libraries/mermaid/<version>
+```
+
 Replace `<version>` with expected version number.
 
 Example: https://unpkg.com/mermaid@7.0.3/dist/
